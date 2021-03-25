@@ -12,9 +12,9 @@
     <category term="DataScience" />
     <category term=" Programação" />
     <entry>
-        <id>http://vithork.github.io/2021-03-25/</id>
+        <id>http://vithork.github.io/computer-science/2021-03-25/</id>
         <title>Python: Objetos básicos</title>
-        <link rel="alternate" href="http://vithork.github.io/2021-03-25/"/>
+        <link rel="alternate" href="http://vithork.github.io/computer-science/2021-03-25/"/>
         <content type="html">&lt;h1 id=&#34;os-fundamentos-do-python-objetos-básicos&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#os-fundamentos-do-python-objetos-básicos&#34;&gt;#&lt;/a&gt; Os fundamentos do Python: Objetos básicos&lt;/h1&gt;
 &lt;p&gt;Os fundamentos do Python: Objetos básicos&lt;/p&gt;
 &lt;p&gt;O termo “objeto” em Python é bastante abrangente; inclui números, strings(sequência de caracteres), funções, listas — de forma geral um objeto em Python é tudo o que você pode atribuir a uma variável. Dessa forma, fica evidente a existência de diferentes tipos de objetos.&lt;/p&gt;
@@ -101,9 +101,9 @@
         <updated>2021-03-25T23:46:25.000Z</updated>
     </entry>
     <entry>
-        <id>http://vithork.github.io/videos/</id>
+        <id>http://vithork.github.io/computer-science/videos/</id>
         <title>Videos</title>
-        <link rel="alternate" href="http://vithork.github.io/videos/"/>
+        <link rel="alternate" href="http://vithork.github.io/computer-science/videos/"/>
         <content type="html">&lt;p&gt;This is a video test post.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Youtube&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;div class=&#34;video-container&#34;&gt;&lt;iframe src=&#34;https://www.youtube.com/embed/TIbZDRXM-Tg&#34; frameborder=&#34;0&#34; loading=&#34;lazy&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/p&gt;
@@ -116,9 +116,9 @@
         <updated>2013-12-25T02:19:15.000Z</updated>
     </entry>
     <entry>
-        <id>http://vithork.github.io/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</id>
+        <id>http://vithork.github.io/computer-science/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</id>
         <title>日本語テスト</title>
-        <link rel="alternate" href="http://vithork.github.io/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
+        <link rel="alternate" href="http://vithork.github.io/computer-science/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/"/>
         <content type="html">&lt;p&gt;This is a Japanese test post.&lt;/p&gt;
 &lt;p&gt;私は昨日ついにその助力家というのの上よりするたなけれ。&lt;/p&gt;
 &lt;p&gt;最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。&lt;/p&gt;
