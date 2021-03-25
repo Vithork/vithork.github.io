@@ -8,43 +8,9 @@
     <author>
       <name>Vithor</name>
     </author>
-    <updated>2021-03-25T19:18:52.890Z</updated>
+    <updated>2021-03-25T16:26:48.198Z</updated>
     <category term="DataScience" />
     <category term=" Programação" />
-    <entry>
-        <id>http://vithork.github.io/computer-science/projetos/projetos/Jogo-Resilia/</id>
-        <title></title>
-        <link rel="alternate" href="http://vithork.github.io/computer-science/projetos/projetos/Jogo-Resilia/"/>
-        <content type="html">&lt;hr /&gt;
-&lt;p&gt;title: Jogo Resilia&lt;br /&gt;
-date: 2020/08/13 20:45:48&lt;br /&gt;
-update: 2020/09/27&lt;br /&gt;
-categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[Ciência-da-Computação,Projetos, Lista-Projetos]&lt;br /&gt;
-tags:&lt;/li&gt;
-&lt;li&gt;Projetos&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-        <updated>2021-03-25T19:18:52.890Z</updated>
-    </entry>
-    <entry>
-        <id>http://vithork.github.io/computer-science/projetos/projetos/Py-Help-Bot/</id>
-        <title></title>
-        <link rel="alternate" href="http://vithork.github.io/computer-science/projetos/projetos/Py-Help-Bot/"/>
-        <content type="html">&lt;hr /&gt;
-&lt;p&gt;title: PyHelp Discord Bot&lt;br /&gt;
-date: 2020/08/13 20:45:48&lt;br /&gt;
-update: 2020/09/27&lt;br /&gt;
-categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[Ciência-da-Computação,Projetos, Lista-Projetos,Python]&lt;br /&gt;
-tags:&lt;/li&gt;
-&lt;li&gt;Projetos&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-        <updated>2021-03-25T19:18:52.890Z</updated>
-    </entry>
     <entry>
         <id>http://vithork.github.io/computer-science/projetos/Lista-De-Projetos/</id>
         <title></title>
@@ -61,6 +27,29 @@ tags:&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         <updated>2021-03-25T16:26:48.198Z</updated>
+    </entry>
+    <entry>
+        <id>http://vithork.github.io/computer-science/projetos/lista-projetos/Jogo-Resilia/</id>
+        <title>Jogo Resilia</title>
+        <link rel="alternate" href="http://vithork.github.io/computer-science/projetos/lista-projetos/Jogo-Resilia/"/>
+        <content type="html"></content>
+        <category term="Ciência-da-Computação" scheme="http://vithork.github.io/categories/computer-science/" />
+        <category term="Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/" />
+        <category term="Lista-Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/Lista-Projetos/" />
+        <category term="Projetos" scheme="http://vithork.github.io/tags/Projetos/" />
+        <updated>2020-08-13T23:45:48.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://vithork.github.io/computer-science/projetos/lista-projetos/Py-Help-Bot/</id>
+        <title>PyHelp Discord Bot</title>
+        <link rel="alternate" href="http://vithork.github.io/computer-science/projetos/lista-projetos/Py-Help-Bot/"/>
+        <content type="html"></content>
+        <category term="Ciência-da-Computação" scheme="http://vithork.github.io/categories/computer-science/" />
+        <category term="Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/" />
+        <category term="Lista-Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/Lista-Projetos/" />
+        <category term="Python" scheme="http://vithork.github.io/categories/computer-science/projetos/Lista-Projetos/Python/" />
+        <category term="Projetos" scheme="http://vithork.github.io/tags/Projetos/" />
+        <updated>2020-08-13T23:45:48.000Z</updated>
     </entry>
     <entry>
         <id>http://vithork.github.io/computer-science/Python/2021-03-25/</id>

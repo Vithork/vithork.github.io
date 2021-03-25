@@ -10,44 +10,10 @@
         </author>
         <description>Estudante de Data Science - Python - Análise de dados - Pixel Artist</description>
         <language>pt-BR</language>
-        <pubDate>Thu, 25 Mar 2021 16:18:52 -0300</pubDate>
-        <lastBuildDate>Thu, 25 Mar 2021 16:18:52 -0300</lastBuildDate>
+        <pubDate>Thu, 25 Mar 2021 13:26:48 -0300</pubDate>
+        <lastBuildDate>Thu, 25 Mar 2021 13:26:48 -0300</lastBuildDate>
         <category term="DataScience" />
         <category term=" Programação" />
-        <item>
-            <guid isPermalink="true">http://vithork.github.io/computer-science/projetos/projetos/Jogo-Resilia/</guid>
-            <title></title>
-            <link>http://vithork.github.io/computer-science/projetos/projetos/Jogo-Resilia/</link>
-            <pubDate>Thu, 25 Mar 2021 16:18:52 -0300</pubDate>
-            <description><![CDATA[ &lt;hr /&gt;
-&lt;p&gt;title: Jogo Resilia&lt;br /&gt;
-date: 2020/08/13 20:45:48&lt;br /&gt;
-update: 2020/09/27&lt;br /&gt;
-categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[Ciência-da-Computação,Projetos, Lista-Projetos]&lt;br /&gt;
-tags:&lt;/li&gt;
-&lt;li&gt;Projetos&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://vithork.github.io/computer-science/projetos/projetos/Py-Help-Bot/</guid>
-            <title></title>
-            <link>http://vithork.github.io/computer-science/projetos/projetos/Py-Help-Bot/</link>
-            <pubDate>Thu, 25 Mar 2021 16:18:52 -0300</pubDate>
-            <description><![CDATA[ &lt;hr /&gt;
-&lt;p&gt;title: PyHelp Discord Bot&lt;br /&gt;
-date: 2020/08/13 20:45:48&lt;br /&gt;
-update: 2020/09/27&lt;br /&gt;
-categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[Ciência-da-Computação,Projetos, Lista-Projetos,Python]&lt;br /&gt;
-tags:&lt;/li&gt;
-&lt;li&gt;Projetos&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
         <item>
             <guid isPermalink="true">http://vithork.github.io/computer-science/projetos/Lista-De-Projetos/</guid>
             <title></title>
@@ -64,6 +30,29 @@ tags:&lt;/li&gt;
 &lt;li&gt;Projetos&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://vithork.github.io/computer-science/projetos/lista-projetos/Jogo-Resilia/</guid>
+            <title>Jogo Resilia</title>
+            <link>http://vithork.github.io/computer-science/projetos/lista-projetos/Jogo-Resilia/</link>
+            <category term="Ciência-da-Computação" scheme="http://vithork.github.io/categories/computer-science/" />
+            <category term="Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/" />
+            <category term="Lista-Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/Lista-Projetos/" />
+            <category term="Projetos" scheme="http://vithork.github.io/tags/Projetos/" />
+            <pubDate>Thu, 13 Aug 2020 20:45:48 -0300</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://vithork.github.io/computer-science/projetos/lista-projetos/Py-Help-Bot/</guid>
+            <title>PyHelp Discord Bot</title>
+            <link>http://vithork.github.io/computer-science/projetos/lista-projetos/Py-Help-Bot/</link>
+            <category term="Ciência-da-Computação" scheme="http://vithork.github.io/categories/computer-science/" />
+            <category term="Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/" />
+            <category term="Lista-Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/Lista-Projetos/" />
+            <category term="Python" scheme="http://vithork.github.io/categories/computer-science/projetos/Lista-Projetos/Python/" />
+            <category term="Projetos" scheme="http://vithork.github.io/tags/Projetos/" />
+            <pubDate>Thu, 13 Aug 2020 20:45:48 -0300</pubDate>
+            <description><![CDATA[  ]]></description>
         </item>
         <item>
             <guid isPermalink="true">http://vithork.github.io/computer-science/Python/2021-03-25/</guid>
