@@ -97,6 +97,7 @@
 </content>
         <category term="Ciência-Da-Computação" scheme="http://vithork.github.io/categories/Ciencia-Da-Computacao/" />
         <category term="Python" scheme="http://vithork.github.io/categories/Ciencia-Da-Computacao/python/" />
+        <category term="Fundamentos" scheme="http://vithork.github.io/categories/Ciencia-Da-Computacao/python/Fundamentos/" />
         <updated>2021-03-25T23:46:25.000Z</updated>
     </entry>
 </feed>
