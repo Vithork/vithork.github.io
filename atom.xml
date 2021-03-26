@@ -29,6 +29,17 @@ tags:&lt;/li&gt;
         <updated>2021-03-25T16:26:48.198Z</updated>
     </entry>
     <entry>
+        <id>http://vithor.tech/computer-science/projetos/lista-projetos/Jogo-Resilia/</id>
+        <title>Jogo Resilia</title>
+        <link rel="alternate" href="http://vithor.tech/computer-science/projetos/lista-projetos/Jogo-Resilia/"/>
+        <content type="html"></content>
+        <category term="Ciência-da-Computação" scheme="http://vithor.tech/categories/computer-science/" />
+        <category term="Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/" />
+        <category term="Lista-Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/Lista-Projetos/" />
+        <category term="Projetos" scheme="http://vithor.tech/tags/Projetos/" />
+        <updated>2020-08-13T23:45:48.000Z</updated>
+    </entry>
+    <entry>
         <id>http://vithor.tech/computer-science/projetos/lista-projetos/Py-Help-Bot/</id>
         <title>PyHelp Discord Bot</title>
         <link rel="alternate" href="http://vithor.tech/computer-science/projetos/lista-projetos/Py-Help-Bot/"/>
@@ -37,17 +48,6 @@ tags:&lt;/li&gt;
         <category term="Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/" />
         <category term="Lista-Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/Lista-Projetos/" />
         <category term="Python" scheme="http://vithor.tech/categories/computer-science/projetos/Lista-Projetos/Python/" />
-        <category term="Projetos" scheme="http://vithor.tech/tags/Projetos/" />
-        <updated>2020-08-13T23:45:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://vithor.tech/computer-science/projetos/lista-projetos/Jogo-Resilia/</id>
-        <title>Jogo Resilia</title>
-        <link rel="alternate" href="http://vithor.tech/computer-science/projetos/lista-projetos/Jogo-Resilia/"/>
-        <content type="html"></content>
-        <category term="Ciência-da-Computação" scheme="http://vithor.tech/categories/computer-science/" />
-        <category term="Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/" />
-        <category term="Lista-Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/Lista-Projetos/" />
         <category term="Projetos" scheme="http://vithor.tech/tags/Projetos/" />
         <updated>2020-08-13T23:45:48.000Z</updated>
     </entry>
