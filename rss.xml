@@ -3,8 +3,8 @@
     <channel>
         <title>Tecnologia - Arte - Life</title>
         <subtitle>baby baby do biruleibe leibe</subtitle>
-        <icon>http://vithork.github.io/images/favicon.ico</icon>
-        <link>http://vithork.github.io</link>
+        <icon>http://vithor.tech/images/favicon.ico</icon>
+        <link>http://vithor.tech</link>
         <author>
           <name>Vithor</name>
         </author>
@@ -15,9 +15,9 @@
         <category term="DataScience" />
         <category term=" Programação" />
         <item>
-            <guid isPermalink="true">http://vithork.github.io/computer-science/projetos/Lista-De-Projetos/</guid>
+            <guid isPermalink="true">http://vithor.tech/computer-science/projetos/Lista-De-Projetos/</guid>
             <title></title>
-            <link>http://vithork.github.io/computer-science/projetos/Lista-De-Projetos/</link>
+            <link>http://vithor.tech/computer-science/projetos/Lista-De-Projetos/</link>
             <pubDate>Thu, 25 Mar 2021 13:26:48 -0300</pubDate>
             <description><![CDATA[ &lt;hr /&gt;
 &lt;p&gt;title: Lista De Projetos&lt;br /&gt;
@@ -32,34 +32,34 @@ tags:&lt;/li&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://vithork.github.io/computer-science/projetos/lista-projetos/Py-Help-Bot/</guid>
-            <title>PyHelp Discord Bot</title>
-            <link>http://vithork.github.io/computer-science/projetos/lista-projetos/Py-Help-Bot/</link>
-            <category term="Ciência-da-Computação" scheme="http://vithork.github.io/categories/computer-science/" />
-            <category term="Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/" />
-            <category term="Lista-Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/Lista-Projetos/" />
-            <category term="Python" scheme="http://vithork.github.io/categories/computer-science/projetos/Lista-Projetos/Python/" />
-            <category term="Projetos" scheme="http://vithork.github.io/tags/Projetos/" />
-            <pubDate>Thu, 13 Aug 2020 20:45:48 -0300</pubDate>
-            <description><![CDATA[  ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://vithork.github.io/computer-science/projetos/lista-projetos/Jogo-Resilia/</guid>
+            <guid isPermalink="true">http://vithor.tech/computer-science/projetos/lista-projetos/Jogo-Resilia/</guid>
             <title>Jogo Resilia</title>
-            <link>http://vithork.github.io/computer-science/projetos/lista-projetos/Jogo-Resilia/</link>
-            <category term="Ciência-da-Computação" scheme="http://vithork.github.io/categories/computer-science/" />
-            <category term="Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/" />
-            <category term="Lista-Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/Lista-Projetos/" />
-            <category term="Projetos" scheme="http://vithork.github.io/tags/Projetos/" />
+            <link>http://vithor.tech/computer-science/projetos/lista-projetos/Jogo-Resilia/</link>
+            <category term="Ciência-da-Computação" scheme="http://vithor.tech/categories/computer-science/" />
+            <category term="Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/" />
+            <category term="Lista-Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/Lista-Projetos/" />
+            <category term="Projetos" scheme="http://vithor.tech/tags/Projetos/" />
             <pubDate>Thu, 13 Aug 2020 20:45:48 -0300</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://vithork.github.io/computer-science/Python/2021-03-25/</guid>
+            <guid isPermalink="true">http://vithor.tech/computer-science/projetos/lista-projetos/Py-Help-Bot/</guid>
+            <title>PyHelp Discord Bot</title>
+            <link>http://vithor.tech/computer-science/projetos/lista-projetos/Py-Help-Bot/</link>
+            <category term="Ciência-da-Computação" scheme="http://vithor.tech/categories/computer-science/" />
+            <category term="Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/" />
+            <category term="Lista-Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/Lista-Projetos/" />
+            <category term="Python" scheme="http://vithor.tech/categories/computer-science/projetos/Lista-Projetos/Python/" />
+            <category term="Projetos" scheme="http://vithor.tech/tags/Projetos/" />
+            <pubDate>Thu, 13 Aug 2020 20:45:48 -0300</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://vithor.tech/computer-science/Python/2021-03-25/</guid>
             <title>Python: Objetos básicos</title>
-            <link>http://vithork.github.io/computer-science/Python/2021-03-25/</link>
-            <category term="Ciência-da-Computação" scheme="http://vithork.github.io/categories/computer-science/" />
-            <category term="Python" scheme="http://vithork.github.io/categories/computer-science/Python/" />
+            <link>http://vithor.tech/computer-science/Python/2021-03-25/</link>
+            <category term="Ciência-da-Computação" scheme="http://vithor.tech/categories/computer-science/" />
+            <category term="Python" scheme="http://vithor.tech/categories/computer-science/Python/" />
             <pubDate>Mon, 13 Apr 2020 19:12:45 -0300</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;os-fundamentos-do-python-objetos-básicos&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#os-fundamentos-do-python-objetos-básicos&#34;&gt;#&lt;/a&gt; Os fundamentos do Python: Objetos básicos&lt;/h1&gt;
 &lt;p&gt;Os fundamentos do Python: Objetos básicos&lt;/p&gt;

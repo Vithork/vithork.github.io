@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://vithork.github.io</id>
+    <id>http://vithor.tech</id>
     <title>Tecnologia - Arte - Life</title>
     <subtitle>baby baby do biruleibe leibe</subtitle>
-    <icon>http://vithork.github.io/images/favicon.ico</icon>
-    <link href="http://vithork.github.io" />
+    <icon>http://vithor.tech/images/favicon.ico</icon>
+    <link href="http://vithor.tech" />
     <author>
       <name>Vithor</name>
     </author>
@@ -12,9 +12,9 @@
     <category term="DataScience" />
     <category term=" Programação" />
     <entry>
-        <id>http://vithork.github.io/computer-science/projetos/Lista-De-Projetos/</id>
+        <id>http://vithor.tech/computer-science/projetos/Lista-De-Projetos/</id>
         <title></title>
-        <link rel="alternate" href="http://vithork.github.io/computer-science/projetos/Lista-De-Projetos/"/>
+        <link rel="alternate" href="http://vithor.tech/computer-science/projetos/Lista-De-Projetos/"/>
         <content type="html">&lt;hr /&gt;
 &lt;p&gt;title: Lista De Projetos&lt;br /&gt;
 date: 2020/08/13 20:45:48&lt;br /&gt;
@@ -29,32 +29,32 @@ tags:&lt;/li&gt;
         <updated>2021-03-25T16:26:48.198Z</updated>
     </entry>
     <entry>
-        <id>http://vithork.github.io/computer-science/projetos/lista-projetos/Py-Help-Bot/</id>
-        <title>PyHelp Discord Bot</title>
-        <link rel="alternate" href="http://vithork.github.io/computer-science/projetos/lista-projetos/Py-Help-Bot/"/>
-        <content type="html"></content>
-        <category term="Ciência-da-Computação" scheme="http://vithork.github.io/categories/computer-science/" />
-        <category term="Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/" />
-        <category term="Lista-Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/Lista-Projetos/" />
-        <category term="Python" scheme="http://vithork.github.io/categories/computer-science/projetos/Lista-Projetos/Python/" />
-        <category term="Projetos" scheme="http://vithork.github.io/tags/Projetos/" />
-        <updated>2020-08-13T23:45:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://vithork.github.io/computer-science/projetos/lista-projetos/Jogo-Resilia/</id>
+        <id>http://vithor.tech/computer-science/projetos/lista-projetos/Jogo-Resilia/</id>
         <title>Jogo Resilia</title>
-        <link rel="alternate" href="http://vithork.github.io/computer-science/projetos/lista-projetos/Jogo-Resilia/"/>
+        <link rel="alternate" href="http://vithor.tech/computer-science/projetos/lista-projetos/Jogo-Resilia/"/>
         <content type="html"></content>
-        <category term="Ciência-da-Computação" scheme="http://vithork.github.io/categories/computer-science/" />
-        <category term="Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/" />
-        <category term="Lista-Projetos" scheme="http://vithork.github.io/categories/computer-science/projetos/Lista-Projetos/" />
-        <category term="Projetos" scheme="http://vithork.github.io/tags/Projetos/" />
+        <category term="Ciência-da-Computação" scheme="http://vithor.tech/categories/computer-science/" />
+        <category term="Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/" />
+        <category term="Lista-Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/Lista-Projetos/" />
+        <category term="Projetos" scheme="http://vithor.tech/tags/Projetos/" />
         <updated>2020-08-13T23:45:48.000Z</updated>
     </entry>
     <entry>
-        <id>http://vithork.github.io/computer-science/Python/2021-03-25/</id>
+        <id>http://vithor.tech/computer-science/projetos/lista-projetos/Py-Help-Bot/</id>
+        <title>PyHelp Discord Bot</title>
+        <link rel="alternate" href="http://vithor.tech/computer-science/projetos/lista-projetos/Py-Help-Bot/"/>
+        <content type="html"></content>
+        <category term="Ciência-da-Computação" scheme="http://vithor.tech/categories/computer-science/" />
+        <category term="Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/" />
+        <category term="Lista-Projetos" scheme="http://vithor.tech/categories/computer-science/projetos/Lista-Projetos/" />
+        <category term="Python" scheme="http://vithor.tech/categories/computer-science/projetos/Lista-Projetos/Python/" />
+        <category term="Projetos" scheme="http://vithor.tech/tags/Projetos/" />
+        <updated>2020-08-13T23:45:48.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://vithor.tech/computer-science/Python/2021-03-25/</id>
         <title>Python: Objetos básicos</title>
-        <link rel="alternate" href="http://vithork.github.io/computer-science/Python/2021-03-25/"/>
+        <link rel="alternate" href="http://vithor.tech/computer-science/Python/2021-03-25/"/>
         <content type="html">&lt;h1 id=&#34;os-fundamentos-do-python-objetos-básicos&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#os-fundamentos-do-python-objetos-básicos&#34;&gt;#&lt;/a&gt; Os fundamentos do Python: Objetos básicos&lt;/h1&gt;
 &lt;p&gt;Os fundamentos do Python: Objetos básicos&lt;/p&gt;
 &lt;p&gt;O termo “objeto” em Python é bastante abrangente; inclui números, strings(sequência de caracteres), funções, listas — de forma geral um objeto em Python é tudo o que você pode atribuir a uma variável. Dessa forma, fica evidente a existência de diferentes tipos de objetos.&lt;/p&gt;
@@ -135,8 +135,8 @@ tags:&lt;/li&gt;
 &lt;p&gt;Agora você teve uma leve introdução a Python, mas não pare por aqui!&lt;/p&gt;
 &lt;p&gt;Vá até a documentação &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLnB5dGhvbi5vcmcvcHQtYnIvMy90dXRvcmlhbC8=&#34;&gt;oficial&lt;/span&gt; da linguagem; explore e aprenda.&lt;/p&gt;
 </content>
-        <category term="Ciência-da-Computação" scheme="http://vithork.github.io/categories/computer-science/" />
-        <category term="Python" scheme="http://vithork.github.io/categories/computer-science/Python/" />
+        <category term="Ciência-da-Computação" scheme="http://vithor.tech/categories/computer-science/" />
+        <category term="Python" scheme="http://vithor.tech/categories/computer-science/Python/" />
         <updated>2020-04-13T22:12:45.000Z</updated>
     </entry>
 </feed>
