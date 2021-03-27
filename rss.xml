@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Tecnologia - Arte - Life</title>
+        <title>Tecnologia - Dados - Inteligência Artificial</title>
         <subtitle>baby baby do biruleibe leibe</subtitle>
         <icon>http://vithor.tech/images/favicon.ico</icon>
         <link>http://vithor.tech</link>
         <author>
           <name>Vithor</name>
         </author>
-        <description>Estudante de Data Science - Python - Análise de dados - Pixel Artist</description>
+        <description>Estudante de Data Science</description>
         <language>pt-BR</language>
         <pubDate>Thu, 25 Mar 2021 13:26:48 -0300</pubDate>
         <lastBuildDate>Thu, 25 Mar 2021 13:26:48 -0300</lastBuildDate>
