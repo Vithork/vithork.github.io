@@ -8,9 +8,79 @@
     <author>
       <name>Vithor</name>
     </author>
-    <updated>2021-03-25T16:26:48.198Z</updated>
+    <updated>2021-03-27T19:18:26.051Z</updated>
     <category term="DataScience" />
     <category term=" Programação" />
+    <entry>
+        <id>http://vithor.tech/computer-science/Resumos%20Bin%C3%A1rios/api/</id>
+        <title></title>
+        <link rel="alternate" href="http://vithor.tech/computer-science/Resumos%20Bin%C3%A1rios/api/"/>
+        <content type="html">&lt;h1 id=&#34;resumo-sobre-apis&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#resumo-sobre-apis&#34;&gt;#&lt;/a&gt; Resumo Sobre APIs&lt;/h1&gt;
+&lt;h2 id=&#34;o-que-é-api&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#o-que-é-api&#34;&gt;#&lt;/a&gt; O que é API:&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;API&lt;/strong&gt; - Acrônimo do inglês &amp;quot;&lt;em&gt;Application Programming Interface&lt;/em&gt;&amp;quot; é um conjunto pré-estabelecido de funções, interações ou protocolos que podem ser consumidos por aplicações distintas. Simplificando, APIs permitem que recursos de um software seja usado por outros. São um meio pelo qual dois programas diferentes podem se comunicar.&lt;/p&gt;
+&lt;p&gt;-Ok! Mas o que isso significa exatamente?&lt;/p&gt;
+&lt;p&gt;Bom, vamos imaginar que um videogame seria o seu software. E tivesse uma API que incluísse informações sobre o que você pode fazer e como utilizar o videogame(o famoso manual de instruções):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Inserir o CD&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ligar&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Desligar&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Dar Start&lt;/p&gt;
+&lt;p&gt;Ela forneceu informações e como usar no seu software, essas informações se completam, tornam seu software útil. Afinal, o usuário precisa saber dar start para jogar não é?&lt;/p&gt;
+&lt;p&gt;API não precisa explicar o que acontece dentro do videogame quando você da start em um jogo, você pode simplesmente consumir ela sem conhecer os detalhes da implementação de software.&lt;/p&gt;
+&lt;p&gt;-Ainda não entendi, pode me dar outro exemplo? - Claro!&lt;/p&gt;
+&lt;p&gt;Um exemplo de uso de API é esse site, as imagens no background do site estão sendo geradas por meio de uma API, que eu posso até ter uma ideia de como é feita, porém, eu só preciso saber as informações que ela me fornece - no caso, as imagens. Pois ela complementa e exerce um papel útil para meu software, que é gerar artes aleatórias que vem de algum banco de imagens da internet.&lt;/p&gt;
+&lt;p&gt;Segundo a empresa Red Hat, as APIs podem se dividir entre 03 tipos:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h4 id=&#34;api-privada&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#api-privada&#34;&gt;#&lt;/a&gt; &lt;strong&gt;API Privada&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;A API é usada apenas internamente. Isso oferece às empresas um maior controle.&lt;/p&gt;
+&lt;h4 id=&#34;api-de-parceiros&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#api-de-parceiros&#34;&gt;#&lt;/a&gt; &lt;strong&gt;API de Parceiros&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;A API é compartilhada com parceiros de negócios específicos. Isso pode fornecer fluxos de receita adicionais sem comprometer a qualidade.&lt;/p&gt;
+&lt;h4 id=&#34;api-pública&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#api-pública&#34;&gt;#&lt;/a&gt; &lt;strong&gt;API Pública&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;A API é disponibilizada para todos. Terceiros podem desenvolver aplicações que interajam com a sua API e isso pode se tornar uma fonte de inovação.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;exemplos-reais-de-api&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#exemplos-reais-de-api&#34;&gt;#&lt;/a&gt; Exemplos reais de API&lt;/h2&gt;
+&lt;p&gt;Hoje em dia temos APIs em todos os cantos da internet, em algum momento, na última semana com certeza já utilizamos vários serviços que dependem do seu uso. Agora vamos ver alguns exemplos reais de grandes empresas que utilizam e disponibilizam APIs.&lt;/p&gt;
+&lt;h3 id=&#34;apis-do-google&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#apis-do-google&#34;&gt;#&lt;/a&gt; APIs do Google&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;As &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZXZlbG9wZXJzLmdvb2dsZS5jb20vYXBpcy1leHBsb3Jlcg==&#34;&gt;Google APIs&lt;/span&gt; permitem conectar o seu software a toda uma variedade de serviços; Tradutor, Maps, etc.&lt;/li&gt;
+&lt;li&gt;O Google Maps é utilizado em diversos sites de viagem e hospedagem de hotel.&lt;/li&gt;
+&lt;li&gt;Podemos consumir dados da API do Youtube e criar Data Frames com eles como é mostrado nesse vídeo do canal&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly95b3V0dS5iZS9vbERDSjF3M0ZMTQ==&#34;&gt;Programação Dinâmica.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;apis-do-twitter&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#apis-do-twitter&#34;&gt;#&lt;/a&gt; APIs do Twitter&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Um exemplo de uso das &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZXZlbG9wZXIudHdpdHRlci5jb20vZW4vZG9jcy90d2l0dGVyLWFwaQ==&#34;&gt;Twitter APis&lt;/span&gt; é a interação com tweets, no qual podemos pesquisar por posts, criar novos posts, pesquisar por usuários e muitas outras funcionalidades. A forma de fazer isso também é informada. Para consumir as APIs você precisa especificar os seus parâmetros de pesquisa: geolocalização, idioma, hashtags, etc.&lt;/li&gt;
+&lt;li&gt;A API do Twitter é usada em vários projetos de análise de sentimentos, que dizem por meio dos tweets se às pessoas estão felizes ou triste sobre um produto X por exemplo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;apis-do-ifood&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#apis-do-ifood&#34;&gt;#&lt;/a&gt; APIs do Ifood&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Muitos sistemas de restaurantes fazem a implementação das &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZXZlbG9wZXIuaWZvb2QuY29tLmJyL3JlZmVyZW5jZSNub3ZpZGFkZXM=&#34;&gt;Ifood APis&lt;/span&gt; para ter funcionalidades de delivery como; acompanhamento de entrega, pedidos online, pagamentos, criação de app e outras funcionalidades que são importantíssimas para os negócios.&lt;/li&gt;
+&lt;li&gt;Ifood permite que Software Houses se tornem parceiras para que possam fazer essa integração por meio da API em seus sistemas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;lista-de-apis-públicas-4fun&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#lista-de-apis-públicas-4fun&#34;&gt;#&lt;/a&gt; Lista de APIs públicas (4fun)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2NzLnRoZWNhdGFwaS5jb20v&#34;&gt;The Cat Api&lt;/span&gt; - Retorna fotos de gatinhos.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly90aGUtb25lLWFwaS5kZXYvZG9jdW1lbnRhdGlvbg==&#34;&gt;The One API&lt;/span&gt; - API que contém dados sobre Senhor Dos Anéis e o universo Tolkien.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZnJlZXRvZ2FtZS5jb20vYXBpLWRvYw==&#34;&gt;Free-To-Play Games Database API&lt;/span&gt; - Banco de dados JSON de todos os jogos gratuitos disponíveis na Internet para jogar.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kZXZlbG9wZXIuc3BvdGlmeS5jb20vZG9jdW1lbnRhdGlvbi93ZWItYXBpLw==&#34;&gt;Spotify API&lt;/span&gt; - Busque dados do catálogo de música do Spotify, gerencie as listas de reprodução dos usuários e músicas salvas.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuc2NyYXBpbmdkb2cuY29tLw==&#34;&gt;Scraping Dog API&lt;/span&gt; - Retorna dados html de qualquer página da web em uma única chamada da API.&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zb3J1bHkuZ2l0aHViLmlvL3RyYWNlLm1vZS8jLw==&#34;&gt;trace.moe API&lt;/span&gt; - Faz um scan de uma imagem de um anime e retorna informações sobre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Para encontrar mais APIs públicas acesse: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wdWJsaWMtYXBpcy5pby8=&#34;&gt;public-apis.io&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;referências&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#referências&#34;&gt;#&lt;/a&gt; Referências&lt;/h3&gt;
+&lt;p&gt;Red Hat. INTERFACE DE PROGRAMAÇÃO DE APLICAÇÕES. O que é API? Disponível em: &amp;lt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucmVkaGF0LmNvbS9wdC1ici90b3BpY3MvYXBpL3doYXQtYXJlLWFwcGxpY2F0aW9uLXByb2dyYW1taW5nLWludGVyZmFjZXM=&#34;&gt;https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces&lt;/span&gt;&amp;gt;Acesso em: 27 mar. 2021&lt;/p&gt;
+&lt;p&gt;Public APIs. Play around with these free &amp;amp; public APIs with your side projects. Disponível em: &amp;lt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wdWJsaWMtYXBpcy5pby8=&#34;&gt;https://public-apis.io/&lt;/span&gt;&amp;gt; Acesso em: 28 mar. 2021&lt;/p&gt;
+</content>
+        <updated>2021-03-27T19:18:26.051Z</updated>
+    </entry>
     <entry>
         <id>http://vithor.tech/computer-science/projetos/Lista-De-Projetos/</id>
         <title></title>
