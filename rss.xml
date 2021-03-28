@@ -16,13 +16,13 @@
         <category term=" Programação" />
         <item>
             <guid isPermalink="true">http://vithor.tech/computer-science/Resumos%20Bin%C3%A1rios/api/</guid>
-            <title>resumo API</title>
+            <title>API - Resumo</title>
             <link>http://vithor.tech/computer-science/Resumos%20Bin%C3%A1rios/api/</link>
             <category term="API" scheme="http://vithor.tech/tags/API/" />
             <pubDate>Sun, 28 Mar 2021 16:43:00 -0300</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;resumo-sobre-apis&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#resumo-sobre-apis&#34;&gt;#&lt;/a&gt; Resumo Sobre APIs&lt;/h1&gt;
+            <description><![CDATA[ &lt;h1 id=&#34;resumo-sobre-api&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#resumo-sobre-api&#34;&gt;#&lt;/a&gt; Resumo Sobre API&lt;/h1&gt;
 &lt;h2 id=&#34;o-que-é-api&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#o-que-é-api&#34;&gt;#&lt;/a&gt; O que é API:&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;API&lt;/strong&gt; - Acrônimo do inglês &amp;quot;&lt;em&gt;Application Programming Interface&lt;/em&gt;&amp;quot; é um conjunto pré-estabelecido de funções, interações ou protocolos que podem ser consumidos por aplicações distintas. Simplificando, APIs permitem que recursos de um software seja usado por outros. São um meio pelo qual dois programas diferentes podem se comunicar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;API&lt;/strong&gt; - Acrônimo do inglês &amp;quot;Application Programming Interface&amp;quot; é um conjunto pré-estabelecido de funções, interações ou protocolos que podem ser consumidos por aplicações distintas. Simplificando, APIs permitem que recursos de um software seja usado por outros. São um meio pelo qual dois programas diferentes podem se comunicar.&lt;/p&gt;
 &lt;p&gt;-Ok! Mas o que isso significa exatamente?&lt;/p&gt;
 &lt;p&gt;Bom, vamos imaginar que um videogame seria o seu software. E tivesse uma API que incluísse informações sobre o que você pode fazer e como utilizar o videogame(o famoso manual de instruções):&lt;/p&gt;
 &lt;ul&gt;
