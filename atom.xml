@@ -228,7 +228,7 @@ API não precisa explicar o que acontece dentro do videogame quando você da sta
     </entry>
     <entry>
         <id>http://vithor.tech/computer-science/Python/code-highlight/</id>
-        <title>Code Highlight Style test</title>
+        <title>highlight: syntax</title>
         <link rel="alternate" href="http://vithor.tech/computer-science/Python/code-highlight/"/>
         <content type="html">&lt;p&gt;Make sure all the code blocks highlighted correctly. All the code samples are come from the demo of &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oaWdobGlnaHRqcy5vcmc=&#34;&gt;https://highlightjs.org&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;&lt;/p&gt;
@@ -423,6 +423,8 @@ auto = no
 counter = 1_000
 &lt;/code&gt;&lt;/pre&gt;
 </content>
-        <updated>2019-07-25T19:43:00.000Z</updated>
+        <category term="Ciência-da-Computação" scheme="http://vithor.tech/categories/computer-science/" />
+        <category term="Python" scheme="http://vithor.tech/categories/computer-science/Python/" />
+        <updated>2020-04-13T22:12:45.000Z</updated>
     </entry>
 </feed>
