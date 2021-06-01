@@ -7,6 +7,25 @@
     "home_page_url": "http://vithor.tech",
     "items": [
         {
+            "id": "http://vithor.tech/computer-science/Python/Untitled/",
+            "url": "http://vithor.tech/computer-science/Python/Untitled/",
+            "title": "Python: Nuvem de Palavras",
+            "date_published": "2021-06-01T14:36:00.000Z",
+            "content_html": "<h1 id=\"python-nuvem-de-palavras\"><a class=\"anchor\" href=\"#python-nuvem-de-palavras\">#</a> Python: Nuvem de Palavras</h1>\n<h3 id=\"o-que-é-uma-nuvem-de-palavras\"><a class=\"anchor\" href=\"#o-que-é-uma-nuvem-de-palavras\">#</a> O que é uma Nuvem de Palavras?</h3>\n<p>Nuvem de Palavras é uma representação gráfica de um conjunto de dados textual. Funciona de maneira simples: quanto mais uma palavra se repete em uma fonte de dados textual, maior e mais destacada ela aparece em uma nuvem de palavras.</p>\n<h3 id=\"pré-requisitos\"><a class=\"anchor\" href=\"#pré-requisitos\">#</a> Pré-requisitos</h3>\n<ul>\n<li></li>\n</ul>\n",
+            "tags": [
+                "Ciência-da-Computação",
+                "Python"
+            ]
+        },
+        {
+            "id": "http://vithor.tech/computer-science/projetos/Lista-De-Projetos/",
+            "url": "http://vithor.tech/computer-science/projetos/Lista-De-Projetos/",
+            "title": "",
+            "date_published": "2021-06-01T11:33:06.995Z",
+            "content_html": "<hr />\n<p>title: Lista De Projetos<br />\ndate: 2020/08/13 20:45:48<br />\nupdate: 2020/09/27<br />\ncategories:</p>\n<ul>\n<li>[Ciência-da-Computação,Projetos, Lista-Projetos]<br />\ntags:</li>\n<li>Projetos</li>\n</ul>\n",
+            "tags": []
+        },
+        {
             "id": "http://vithor.tech/computer-science/Resumos%20Bin%C3%A1rios/api/",
             "url": "http://vithor.tech/computer-science/Resumos%20Bin%C3%A1rios/api/",
             "title": "API - Resumo",
@@ -15,14 +34,6 @@
             "tags": [
                 "API"
             ]
-        },
-        {
-            "id": "http://vithor.tech/computer-science/projetos/Lista-De-Projetos/",
-            "url": "http://vithor.tech/computer-science/projetos/Lista-De-Projetos/",
-            "title": "",
-            "date_published": "2021-03-25T16:26:48.198Z",
-            "content_html": "<hr />\n<p>title: Lista De Projetos<br />\ndate: 2020/08/13 20:45:48<br />\nupdate: 2020/09/27<br />\ncategories:</p>\n<ul>\n<li>[Ciência-da-Computação,Projetos, Lista-Projetos]<br />\ntags:</li>\n<li>Projetos</li>\n</ul>\n",
-            "tags": []
         },
         {
             "id": "http://vithor.tech/computer-science/projetos/lista-projetos/Jogo-Resilia/",

@@ -10,10 +10,43 @@
         </author>
         <description>Estudante de Data Science</description>
         <language>pt-BR</language>
-        <pubDate>Sun, 28 Mar 2021 16:43:00 -0300</pubDate>
-        <lastBuildDate>Sun, 28 Mar 2021 16:43:00 -0300</lastBuildDate>
+        <pubDate>Tue, 01 Jun 2021 11:36:00 -0300</pubDate>
+        <lastBuildDate>Tue, 01 Jun 2021 11:36:00 -0300</lastBuildDate>
         <category term="DataScience" />
         <category term=" Programação" />
+        <item>
+            <guid isPermalink="true">http://vithor.tech/computer-science/Python/Untitled/</guid>
+            <title>Python: Nuvem de Palavras</title>
+            <link>http://vithor.tech/computer-science/Python/Untitled/</link>
+            <category term="Ciência-da-Computação" scheme="http://vithor.tech/categories/computer-science/" />
+            <category term="Python" scheme="http://vithor.tech/categories/computer-science/Python/" />
+            <pubDate>Tue, 01 Jun 2021 11:36:00 -0300</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;python-nuvem-de-palavras&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#python-nuvem-de-palavras&#34;&gt;#&lt;/a&gt; Python: Nuvem de Palavras&lt;/h1&gt;
+&lt;h3 id=&#34;o-que-é-uma-nuvem-de-palavras&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#o-que-é-uma-nuvem-de-palavras&#34;&gt;#&lt;/a&gt; O que é uma Nuvem de Palavras?&lt;/h3&gt;
+&lt;p&gt;Nuvem de Palavras é uma representação gráfica de um conjunto de dados textual. Funciona de maneira simples: quanto mais uma palavra se repete em uma fonte de dados textual, maior e mais destacada ela aparece em uma nuvem de palavras.&lt;/p&gt;
+&lt;h3 id=&#34;pré-requisitos&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#pré-requisitos&#34;&gt;#&lt;/a&gt; Pré-requisitos&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://vithor.tech/computer-science/projetos/Lista-De-Projetos/</guid>
+            <title></title>
+            <link>http://vithor.tech/computer-science/projetos/Lista-De-Projetos/</link>
+            <pubDate>Tue, 01 Jun 2021 08:33:06 -0300</pubDate>
+            <description><![CDATA[ &lt;hr /&gt;
+&lt;p&gt;title: Lista De Projetos&lt;br /&gt;
+date: 2020/08/13 20:45:48&lt;br /&gt;
+update: 2020/09/27&lt;br /&gt;
+categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[Ciência-da-Computação,Projetos, Lista-Projetos]&lt;br /&gt;
+tags:&lt;/li&gt;
+&lt;li&gt;Projetos&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://vithor.tech/computer-science/Resumos%20Bin%C3%A1rios/api/</guid>
             <title>API - Resumo</title>
@@ -83,23 +116,6 @@ API não precisa explicar o que acontece dentro do videogame quando você da sta
 &lt;h3 id=&#34;referências&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#referências&#34;&gt;#&lt;/a&gt; Referências&lt;/h3&gt;
 &lt;p&gt;Red Hat. INTERFACE DE PROGRAMAÇÃO DE APLICAÇÕES. O que é API? Disponível em: &amp;lt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cucmVkaGF0LmNvbS9wdC1ici90b3BpY3MvYXBpL3doYXQtYXJlLWFwcGxpY2F0aW9uLXByb2dyYW1taW5nLWludGVyZmFjZXM=&#34;&gt;https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces&lt;/span&gt;&amp;gt;Acesso em: 27 mar. 2021&lt;/p&gt;
 &lt;p&gt;Public APIs. Play around with these free &amp;amp; public APIs with your side projects. Disponível em: &amp;lt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wdWJsaWMtYXBpcy5pby8=&#34;&gt;https://public-apis.io/&lt;/span&gt;&amp;gt; Acesso em: 28 mar. 2021&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://vithor.tech/computer-science/projetos/Lista-De-Projetos/</guid>
-            <title></title>
-            <link>http://vithor.tech/computer-science/projetos/Lista-De-Projetos/</link>
-            <pubDate>Thu, 25 Mar 2021 13:26:48 -0300</pubDate>
-            <description><![CDATA[ &lt;hr /&gt;
-&lt;p&gt;title: Lista De Projetos&lt;br /&gt;
-date: 2020/08/13 20:45:48&lt;br /&gt;
-update: 2020/09/27&lt;br /&gt;
-categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;[Ciência-da-Computação,Projetos, Lista-Projetos]&lt;br /&gt;
-tags:&lt;/li&gt;
-&lt;li&gt;Projetos&lt;/li&gt;
-&lt;/ul&gt;
  ]]></description>
         </item>
         <item>
