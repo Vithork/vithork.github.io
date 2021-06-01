@@ -18,10 +18,13 @@
         <content type="html">&lt;h1 id=&#34;python-nuvem-de-palavras&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#python-nuvem-de-palavras&#34;&gt;#&lt;/a&gt; Python: Nuvem de Palavras&lt;/h1&gt;
 &lt;h3 id=&#34;o-que-é-uma-nuvem-de-palavras&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#o-que-é-uma-nuvem-de-palavras&#34;&gt;#&lt;/a&gt; O que é uma Nuvem de Palavras?&lt;/h3&gt;
 &lt;p&gt;Nuvem de Palavras é uma representação gráfica de um conjunto de dados textual. Funciona de maneira simples: quanto mais uma palavra se repete em uma fonte de dados textual, maior e mais destacada ela aparece em uma nuvem de palavras.&lt;/p&gt;
-&lt;h3 id=&#34;pré-requisitos&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#pré-requisitos&#34;&gt;#&lt;/a&gt; Pré-requisitos&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;pre class=&#34; language-language-java&#34;&gt;&lt;code class=&#34;language-language-java&#34;&gt;import java.util.Scanner;
+...
+Scanner in = new Scanner (System.in);
+// 输入 Scan 之后，按下键盘 Alt + “/” 键，Eclipse 下自动补全。
+System.out.println (in.nextLine ());
+System.out.println (&#34;Hello&#34; + &#34;world.&#34;);
+&lt;/code&gt;&lt;/pre&gt;
 </content>
         <category term="Ciência-da-Computação" scheme="http://vithor.tech/categories/computer-science/" />
         <category term="Python" scheme="http://vithor.tech/categories/computer-science/Python/" />
