@@ -251,19 +251,6 @@ impl From&lt;&amp;&#39;a str&gt; for State &amp;#123;
     &amp;#125;
 &amp;#125;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;pre class=&#34; language-language-json&#34;&gt;&lt;code class=&#34;language-language-json&#34;&gt;[
-  &amp;#123;
-    &#34;title&#34;: &#34;apples&#34;,
-    &#34;count&#34;: [12000, 20000],
-    &#34;description&#34;: &amp;#123;&#34;text&#34;: &#34;...&#34;, &#34;sensitive&#34;: false&amp;#125;
-  &amp;#125;,
-  &amp;#123;
-    &#34;title&#34;: &#34;oranges&#34;,
-    &#34;count&#34;: [17500, null],
-    &#34;description&#34;: &amp;#123;&#34;text&#34;: &#34;...&#34;, &#34;sensitive&#34;: false&amp;#125;
-  &amp;#125;
-]
-&lt;/code&gt;&lt;/pre&gt;
 &lt;pre class=&#34; language-language-python&#34;&gt;&lt;code class=&#34;language-language-python&#34;&gt;@requires_authorization
 def somefunc(param1=&#39;&#39;, param2=0):
     r&#39;&#39;&#39;A docstring&#39;&#39;&#39;
